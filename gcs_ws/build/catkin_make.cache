@@ -1,0 +1,2 @@
+gcs_simulation:gcs_simulation_gui
+-DCATKIN_DEVEL_PREFIX=/home/madcr/gcs_ws/devel -DCMAKE_INSTALL_PREFIX=/home/madcr/gcs_ws/install -G Unix Makefiles

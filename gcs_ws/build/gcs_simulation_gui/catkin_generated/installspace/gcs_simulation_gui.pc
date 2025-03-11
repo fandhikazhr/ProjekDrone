@@ -1,0 +1,8 @@
+prefix=/home/madcr/gcs_ws/install
+
+Name: gcs_simulation_gui
+Description: Description of gcs_simulation_gui
+Version: 0.0.0
+Cflags: -I${prefix}/include
+Libs: -L${prefix}/lib 
+Requires: roscpp std_msgs
