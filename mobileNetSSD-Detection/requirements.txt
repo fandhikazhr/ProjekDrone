@@ -1,0 +1,9 @@
+tensorflow
+tensorflow-hub
+tensorflow-datasets
+tflite-runtime
+numpy
+opencv-python
+pillow
+matplotlib
+
