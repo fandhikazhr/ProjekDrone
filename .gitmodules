@@ -1,3 +1,6 @@
 [submodule "gazebo_ws/src/iq_sim"]
 	path = gazebo_ws/src/iq_sim
 	url = https://github.com/Intelligent-Quads/iq_sim.git
+[submodule "gazebo_ws/src/iq_gnc"]
+	path = gazebo_ws/src/iq_gnc
+	url = https://github.com/Intelligent-Quads/iq_gnc.git
