@@ -4,3 +4,9 @@
 [submodule "gazebo_ws/src/iq_gnc"]
 	path = gazebo_ws/src/iq_gnc
 	url = https://github.com/Intelligent-Quads/iq_gnc.git
+[submodule "gazebo_ws/src/mavros"]
+	path = gazebo_ws/src/mavros
+	url = https://github.com/mavlink/mavros.git
+[submodule "gazebo_ws/src/mavlink"]
+	path = gazebo_ws/src/mavlink
+	url = https://github.com/mavlink/mavlink.git
